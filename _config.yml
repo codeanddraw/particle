@@ -1,17 +1,15 @@
 # Site settings
 title: Portfolio
-description: Know me
+description: Some things about me
 # baseurl: /portfolio
 # url: 
 
 # User settings
-username: Nisha Learner
+username: Nisha 
 user_description: Learning new things
-user_title: Software Developer
-email: paris.nisha@gmail.com
-twitter_username: 
-github_username:  codeanddraw
-gplus_username:  
+user_title: Masters Student in Computer Science
+email: paris.nisha@gmail.com 
+github_username:  codeanddraw 
 
 # Google-analytics
 google-analytics:
