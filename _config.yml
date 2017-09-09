@@ -6,14 +6,14 @@ description: Some things about me
 
 # User settings
 username: Nisha Chaube
-user_description: I am a highly motivated masters student in Computer Science, music enthusiast and travel fanatic. I am hunting for a full time position with a forward thinking, creative company which places a high value on collaboration and apply a
-multi-disciplinary approach to designing solutions. I would like to start from May 2018 as a software developer, web developer or data analytics employee. 
-user_title: University of Vermont
+user_description: Learning new things
+user_title: Masters Student in Computer Science
 email: nishachaube1@gmail.com 
 github_username:  codeanddraw 
 
 # Google-analytics
 google-analytics:
   id: ""
+
 
 exclude: ['package.json', 'src' , 'node_modules']
